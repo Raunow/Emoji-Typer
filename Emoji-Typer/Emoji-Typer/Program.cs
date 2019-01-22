@@ -82,7 +82,7 @@ namespace Emoji_Typer
 			{
 				if (char.IsLetter(c))
 				{
-					reply.Append(string.Format(":regional_indicator_{0}:", c));
+					reply.Append(string.Format(":regional_indicator_{0}: ", c));
 				}
 				else if (char.IsNumber(c))
 				{
