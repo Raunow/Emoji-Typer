@@ -1,0 +1,11 @@
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\bin\Debug\netcoreapp2.0\Emoji-Typer.deps.json
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\bin\Debug\netcoreapp2.0\Emoji-Typer.runtimeconfig.json
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\bin\Debug\netcoreapp2.0\Emoji-Typer.runtimeconfig.dev.json
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\bin\Debug\netcoreapp2.0\Emoji-Typer.dll
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.csprojAssemblyReference.cache
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.csproj.CoreCompileInputs.cache
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.AssemblyInfoInputs.cache
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.AssemblyInfo.cs
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\bin\Debug\netcoreapp2.0\Emoji-Typer.pdb
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.dll
+C:\Users\Steffenbp.VS\Desktop\Temp\Emoji-Typer\Emoji-Typer\obj\Debug\netcoreapp2.0\Emoji-Typer.pdb
