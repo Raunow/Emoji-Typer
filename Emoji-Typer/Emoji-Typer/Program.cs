@@ -77,8 +77,8 @@ namespace Emoji_Typer
 
 		private static string Translator(string input)
 		{
-			StringBuilder reply = new StringBuilder("");
-			foreach (char c in input)
+			StringBuilder reply = new StringBuilder();
+			foreach (char c in input.ToLower())
 			{
 				if (char.IsLetter(c))
 				{
@@ -88,8 +88,11 @@ namespace Emoji_Typer
 				{
 					reply.Append(GetNumberAsWord(c));
 				}
-				else
+				else if (char.IsWhiteSpace(c))
 				{
+					reply.Append("   ");
+				}
+				else {
 					reply.Append(c);
 				}
 			}
