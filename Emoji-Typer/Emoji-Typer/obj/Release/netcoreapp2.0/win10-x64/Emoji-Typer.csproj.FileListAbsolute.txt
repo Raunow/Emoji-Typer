@@ -1,0 +1,14 @@
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.exe
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.deps.json
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.runtimeconfig.json
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.runtimeconfig.dev.json
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.dll
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\bin\Release\netcoreapp2.0\win10-x64\Emoji-Typer.pdb
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.csprojAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.csproj.CoreCompileInputs.cache
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.AssemblyInfoInputs.cache
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.AssemblyInfo.cs
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.dll
+C:\Users\Steff\Documents\GitHub\Emoji-Typer\Emoji-Typer\Emoji-Typer\obj\Release\netcoreapp2.0\win10-x64\Emoji-Typer.pdb
